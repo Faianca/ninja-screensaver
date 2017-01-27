@@ -1,0 +1,13 @@
+{
+	"name": "locker",
+	"authors": [
+		"Jorge Meireles"
+	],
+	"description": "Lock ",
+	"copyright": "Copyright © 2017, faianca",
+	"license": "proprietary",
+	"libs": ["crypt"],
+	"dependencies": {
+		"x11": "~>1.0.16"
+	}
+}
